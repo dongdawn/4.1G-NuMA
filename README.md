@@ -6,5 +6,6 @@ Directory 4.1G-CTD-NuMA-REMD: PDB files of the structures of 4.1G/NuMA complex f
 
 
 # References
-Wu, S., Wang, D., Liu, J., Feng, Y., Weng, J., Li, Y., Gao, X., Liu, J.*, Wang, W.* “The Dynamic Multisite Interactions between Two Intrinsically Disordered Proteins.” Angew Chemie. Int. Ed. 56: 7515-7519 (2017). 
-Wang, D., Wang, D., Wu, S.,Yang, M., etc. The Structure Basis of the Fuzzy Interactions between Intrinsically Disordered Proteins
+Wu, S., Wang, D., Liu, J., Feng, Y., Weng, J., Li, Y., Gao, X., Liu, J.\*, Wang, W.\* “The Dynamic Multisite Interactions between Two Intrinsically Disordered Proteins.” Angew Chemie. Int. Ed. 56: 7515-7519 (2017). 
+
+Wang, D., Wang, D., Wu, S.,Yang, M., Zhang, W., Huang, S., Weng, J.\*, Liu, Z.\*, Wang, W.\*. The Structure Basis of the Fuzzy Interactions between Intrinsically Disordered Proteins
