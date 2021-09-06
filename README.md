@@ -1,7 +1,9 @@
 # 4.1G-NuMA
-Directory 4.1G-CTD-REMD: PDB files of the structures of 4.1G from REMD, details in original paper, cluster_{1..15}.pdb: top 15 structures from clustering; clusters03.pdb: all structures from clustering.
+Directory 4.1G-CTD-REMD: 
+PDB files of the structures of 4.1G from REMD, details in original paper, cluster_{1..15}.pdb: top 15 structures from clustering; clusters03.pdb: all structures from clustering.
 
-Directory 4.1G-CTD-NuMA-REMD: PDB files of the structures of 4.1G/NuMA complex from REMD. cluster_{1..15}.pdb: top 15 structures from clustering; clusters03.pdb: all structures from clustering.
+Directory 4.1G-CTD-NuMA-REMD: 
+PDB files of the structures of 4.1G/NuMA complex from REMD. cluster_{1..15}.pdb: top 15 structures from clustering; clusters03.pdb: all structures from clustering.
 
 
 
