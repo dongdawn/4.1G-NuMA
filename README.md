@@ -1,8 +1,10 @@
 # 4.1G-NuMA
-Directory 4.1G939-1005: PDB files of the structures of 4.1G from REMD, details in original paper, cluster_{1..15}.pdb: top 15 structures from clustering; clusters03.pdb: all structures from clustering
+Directory 4.1G-CTD-REMD: PDB files of the structures of 4.1G from REMD, details in original paper, cluster_{1..15}.pdb: top 15 structures from clustering; clusters03.pdb: all structures from clustering.
 
-Directory 4.1G939-1005-NuMA: PDB files of the structures of 4.1G/NuMA complex from REMD.
+Directory 4.1G-CTD-NuMA-REMD: PDB files of the structures of 4.1G/NuMA complex from REMD. cluster_{1..15}.pdb: top 15 structures from clustering; clusters03.pdb: all structures from clustering.
+
 
 
 # References
 Wu, S., Wang, D., Liu, J., Feng, Y., Weng, J., Li, Y., Gao, X., Liu, J.*, Wang, W.* “The Dynamic Multisite Interactions between Two Intrinsically Disordered Proteins.” Angew Chemie. Int. Ed. 56: 7515-7519 (2017). 
+Wang, D., Wang, D., Wu, S.,Yang, M., etc. The Structure Basis of the Fuzzy Interactions between Intrinsically Disordered Proteins
